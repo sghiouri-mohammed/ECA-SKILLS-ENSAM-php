@@ -2,7 +2,7 @@
 <h3 align="center">ENSAM CASABLANCA SKILLS ACADEMY</h3>
 
 
-<img align="left" width="200px" height="200px" alt="Coding" width="400" src="https://github.com/sghiouri-mohammed/ECA-SKILLS-ENSAM-php/blob/master/ECA%20screens/index.png">
+<img align="left" width="1000px" height="800px" alt="Coding" width="400" src="https://github.com/sghiouri-mohammed/ECA-SKILLS-ENSAM-php/blob/master/ECA%20screens/index.png">
 <img align="right" alt="Coding" width="400" src="https://github.com/sghiouri-mohammed/ECA-SKILLS-ENSAM-php/blob/master/ECA%20screens/courses%20all.png">
 <img align="right" alt="Coding" width="400" src="https://github.com/sghiouri-mohammed/ECA-SKILLS-ENSAM-php/blob/master/ECA%20screens/webmasters.png">
 
